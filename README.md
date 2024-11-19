@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wesleyaldrich?tab=repositories](https://github.com/wesleyaldrich?tab=repositories)
+- 👨‍💻 My projects are available at [https://github.com/wesleyaldrich?tab=repositories](https://github.com/wesleyaldrich?tab=repositories)
 
-- 💬 Ask me about **React.js, DSA**
+- 💬 Ask me about **React.js, Flask**
 
-- 📄 Know about me [https://wesleyaldrich.github.io/](https://wesleyaldrich.github.io/)
+- 📄 Know more about me [https://wesleyaldrich.github.io/](https://wesleyaldrich.github.io/)
 
 - ⚡ Fun fact **I love K-Pop more than anyone can imagine.**
 
