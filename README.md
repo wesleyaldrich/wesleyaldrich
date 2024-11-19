@@ -13,9 +13,7 @@
 
 - ⚡ Fun fact **I love K-Pop more than anyone can imagine.**
 
-- - ![freeCodeCamp Certification](https://img.shields.io/badge/freeCodeCamp-Certified-brightgreen)
-
-- [Back End Development and APIs Certification](https://www.freecodecamp.org/certification/Wesleyaldrich/back-end-development-and-apis)
+- <img width="829" alt="CERT_FCC" src="https://github.com/user-attachments/assets/694331ae-c192-4c9a-86f4-be1fc4e72391">
 
 
 ## 🌐 Socials:
