@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact **I love K-Pop more than anyone can imagine.**
 
+
+- [Back End Development and APIs Certification](https://www.freecodecamp.org/certification/Wesleyaldrich/back-end-development-and-apis)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pd.wesley) 
 
