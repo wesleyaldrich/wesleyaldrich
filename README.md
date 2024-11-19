@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love K-Pop more than anyone can imagine.**
 
-- <img width="600" alt="CERT_FCC" src="https://github.com/user-attachments/assets/694331ae-c192-4c9a-86f4-be1fc4e72391">
+- <img width="829" alt="CERT_FCC" src="https://github.com/user-attachments/assets/694331ae-c192-4c9a-86f4-be1fc4e72391">
 
 
 ## 🌐 Socials:
