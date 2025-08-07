@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Wesley Aldrich</h1>
 <h3>I'm a full-stack developer from Indonesia.</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://wesleyaldrich.github.io/)
+- 🔭 I’m currently working on [GitPol](https://github.com/wesleyaldrich/gitpol)
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
 - 👨‍💻 My projects are available at [https://github.com/wesleyaldrich?tab=repositories](https://github.com/wesleyaldrich?tab=repositories)
 
-- 💬 Ask me about **React.js, Flask**
+- 💬 Ask me about **React.js, Laravel**
 
 - 📄 Know more about me [https://wesleyaldrich.github.io/](https://wesleyaldrich.github.io/)
 
